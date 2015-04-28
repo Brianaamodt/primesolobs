@@ -1,6 +1,7 @@
 .game {
  	display: none;
- }
+}
+
 img{
 	width: 125px;
 	height: 125px;
@@ -8,26 +9,27 @@ img{
 
 .icon {
  	text-align: center;
- }
+}
 
 div {
  	padding: 10px;
- }
-/**/
+}
+
 h1{
 	text-align: center;
 	font-size: 24px;
 }
 
 .r{
+	color: #ffffff;
 	background-color: #FF4D5B;
 }
 
 .g{
+	color: #000000;
 	background-color: #d3d3d3;
 }
 
 .b{
-	color: #ffffff;
 	background-color: #1849B2;
 }
